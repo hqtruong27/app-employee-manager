@@ -1,0 +1,13 @@
+C:\Users\mrtvh\source\repos\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\mrtvh\source\repos\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\mrtvh\source\repos\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\Shop.frmLogin.resources
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\Shop.frmMain.resources
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\Shop.Đangky.resources
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\Shop.frmAdmin.resources

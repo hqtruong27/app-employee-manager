@@ -1,0 +1,326 @@
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\EmployeeManager.csprojAssemblyReference.cache
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\Shop.frmAdmin.resources
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\EmployeeManager.csproj.GenerateResource.cache
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\EmployeeManager.csproj.CoreCompileInputs.cache
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\mrtvh\source\repos\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\mrtvh\source\repos\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\mrtvh\source\repos\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\mrtvh\source\repos\Shop\Shop\obj\Debug\Shop.frmLogin.resources
+C:\Users\mrtvh\Downloads\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\mrtvh\Downloads\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\mrtvh\Downloads\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\mrtvh\Downloads\Shop\Shop\obj\Debug\EmployeeManager.csprojAssemblyReference.cache
+C:\Users\mrtvh\Downloads\Shop\Shop\obj\Debug\Shop.frmAdmin.resources
+C:\Users\mrtvh\Downloads\Shop\Shop\obj\Debug\Shop.frmDepartment.resources
+C:\Users\mrtvh\Downloads\Shop\Shop\obj\Debug\Shop.frmLogin.resources
+C:\Users\mrtvh\Downloads\Shop\Shop\obj\Debug\Shop.frmEmployee.resources
+C:\Users\mrtvh\Downloads\Shop\Shop\obj\Debug\Shop.frmMain.resources
+C:\Users\mrtvh\Downloads\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\mrtvh\Downloads\Shop\Shop\obj\Debug\EmployeeManager.csproj.GenerateResource.cache
+C:\Users\mrtvh\Downloads\Shop\Shop\obj\Debug\EmployeeManager.csproj.CoreCompileInputs.cache
+C:\Users\mrtvh\Downloads\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\mrtvh\Downloads\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\mrtvh\Desktop\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\mrtvh\Desktop\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\mrtvh\Desktop\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\mrtvh\Desktop\Shop\Shop\obj\Debug\EmployeeManager.csprojAssemblyReference.cache
+C:\Users\mrtvh\Desktop\Shop\Shop\obj\Debug\Shop.frmAdmin.resources
+C:\Users\mrtvh\Desktop\Shop\Shop\obj\Debug\Shop.frmDepartment.resources
+C:\Users\mrtvh\Desktop\Shop\Shop\obj\Debug\Shop.frmLogin.resources
+C:\Users\mrtvh\Desktop\Shop\Shop\obj\Debug\Shop.frmEmployee.resources
+C:\Users\mrtvh\Desktop\Shop\Shop\obj\Debug\Shop.frmMain.resources
+C:\Users\mrtvh\Desktop\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\mrtvh\Desktop\Shop\Shop\obj\Debug\EmployeeManager.csproj.GenerateResource.cache
+C:\Users\mrtvh\Desktop\Shop\Shop\obj\Debug\EmployeeManager.csproj.CoreCompileInputs.cache
+C:\Users\mrtvh\Desktop\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\mrtvh\Desktop\Shop\Shop\obj\Debug\Shop.pdb
+D:\Shop\Shop\bin\Debug\Shop.exe.config
+D:\Shop\Shop\bin\Debug\Shop.exe
+D:\Shop\Shop\bin\Debug\Shop.pdb
+D:\Shop\Shop\bin\Debug\Bunifu.Core.dll
+D:\Shop\Shop\obj\Debug\EmployeeManager.csprojAssemblyReference.cache
+D:\Shop\Shop\obj\Debug\Shop.frmAdmin.resources
+D:\Shop\Shop\obj\Debug\Shop.frmDepartment.resources
+D:\Shop\Shop\obj\Debug\Shop.frmLogin.resources
+D:\Shop\Shop\obj\Debug\Shop.frmEmployee.resources
+D:\Shop\Shop\obj\Debug\Shop.frmMain.resources
+D:\Shop\Shop\obj\Debug\Shop.frmPosition.resources
+D:\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+D:\Shop\Shop\obj\Debug\EmployeeManager.csproj.GenerateResource.cache
+D:\Shop\Shop\obj\Debug\EmployeeManager.csproj.CoreCompileInputs.cache
+D:\Shop\Shop\obj\Debug\EmployeeManager.csproj.CopyComplete
+D:\Shop\Shop\obj\Debug\Shop.exe
+D:\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\mrtvh\Downloads\Shop\Shop\bin\Debug\Bunifu.Core.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\obj\Debug\Shop.frmPosition.resources
+C:\Users\mrtvh\Downloads\Shop\Shop\obj\Debug\EmployeeManager.csproj.CopyComplete
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\Bunifu.Core.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\obj\Debug\Shop.frmAdmin.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\obj\Debug\Shop.frmDepartment.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\obj\Debug\Shop.frmLogin.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\obj\Debug\Shop.frmEmployee.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\obj\Debug\Shop.frmMain.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\obj\Debug\Shop.frmPosition.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\obj\Debug\EmployeeManager.csproj.GenerateResource.cache
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\obj\Debug\EmployeeManager.csproj.CoreCompileInputs.cache
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\obj\Debug\EmployeeManager.csproj.CopyComplete
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\obj\Debug\EmployeeManager.csprojAssemblyReference.cache
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\Bunifu.Core.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\obj\Debug\EmployeeManager.csprojAssemblyReference.cache
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\obj\Debug\Shop.frmAdmin.resources
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\obj\Debug\Shop.frmDepartment.resources
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\obj\Debug\Shop.frmLogin.resources
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\obj\Debug\Shop.frmEmployee.resources
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\obj\Debug\Shop.frmMain.resources
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\obj\Debug\Shop.frmPosition.resources
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\obj\Debug\EmployeeManager.csproj.GenerateResource.cache
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\obj\Debug\EmployeeManager.csproj.CoreCompileInputs.cache
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\obj\Debug\EmployeeManager.csproj.CopyComplete
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\stdole.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\FlashControlV71.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\mrtvh\Downloads\Shop\Shop\Shop\obj\Debug\Shop.frmExportReport.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\FlashControlV71.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\bin\Debug\stdole.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\obj\Debug\Shop.frmExportReport.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\obj\Debug\Shop.frmSalary.resources
+D:\Truong\Shop\Shop\bin\Debug\Shop.exe.config
+D:\Truong\Shop\Shop\bin\Debug\Shop.exe
+D:\Truong\Shop\Shop\bin\Debug\Shop.pdb
+D:\Truong\Shop\Shop\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Truong\Shop\Shop\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Truong\Shop\Shop\bin\Debug\CrystalDecisions.Shared.dll
+D:\Truong\Shop\Shop\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Truong\Shop\Shop\bin\Debug\FlashControlV71.dll
+D:\Truong\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Truong\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Truong\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Truong\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Truong\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Truong\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Truong\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Truong\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Truong\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Truong\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Truong\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Truong\Shop\Shop\bin\Debug\ShockwaveFlashObjects.dll
+D:\Truong\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Truong\Shop\Shop\bin\Debug\stdole.dll
+D:\Truong\Shop\Shop\obj\Debug\Shop.frmAdmin.resources
+D:\Truong\Shop\Shop\obj\Debug\Shop.frmDepartment.resources
+D:\Truong\Shop\Shop\obj\Debug\Shop.frmExportReport.resources
+D:\Truong\Shop\Shop\obj\Debug\Shop.frmLogin.resources
+D:\Truong\Shop\Shop\obj\Debug\Shop.frmEmployee.resources
+D:\Truong\Shop\Shop\obj\Debug\Shop.frmMain.resources
+D:\Truong\Shop\Shop\obj\Debug\Shop.frmPosition.resources
+D:\Truong\Shop\Shop\obj\Debug\Shop.frmSalary.resources
+D:\Truong\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+D:\Truong\Shop\Shop\obj\Debug\EmployeeManager.csproj.GenerateResource.cache
+D:\Truong\Shop\Shop\obj\Debug\EmployeeManager.csproj.CoreCompileInputs.cache
+D:\Truong\Shop\Shop\obj\Debug\EmployeeManager.csproj.CopyComplete
+D:\Truong\Shop\Shop\obj\Debug\Shop.exe
+D:\Truong\Shop\Shop\obj\Debug\Shop.pdb
+D:\Truong\Shop\Shop\obj\Debug\EmployeeManager.csprojAssemblyReference.cache
+D:\New folder (3)\Shop\Shop\bin\Debug\Shop.exe.config
+D:\New folder (3)\Shop\Shop\bin\Debug\Shop.exe
+D:\New folder (3)\Shop\Shop\bin\Debug\Shop.pdb
+D:\New folder (3)\Shop\Shop\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\CrystalDecisions.Shared.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\FlashControlV71.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\Bunifu.Core.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\ShockwaveFlashObjects.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\New folder (3)\Shop\Shop\bin\Debug\stdole.dll
+D:\New folder (3)\Shop\Shop\obj\Debug\EmployeeManager.csprojAssemblyReference.cache
+D:\New folder (3)\Shop\Shop\obj\Debug\Shop.frmAdmin.resources
+D:\New folder (3)\Shop\Shop\obj\Debug\Shop.frmDepartment.resources
+D:\New folder (3)\Shop\Shop\obj\Debug\Shop.frmExportReport.resources
+D:\New folder (3)\Shop\Shop\obj\Debug\Shop.frmLogin.resources
+D:\New folder (3)\Shop\Shop\obj\Debug\Shop.frmEmployee.resources
+D:\New folder (3)\Shop\Shop\obj\Debug\Shop.frmMain.resources
+D:\New folder (3)\Shop\Shop\obj\Debug\Shop.frmPosition.resources
+D:\New folder (3)\Shop\Shop\obj\Debug\Shop.frmSalary.resources
+D:\New folder (3)\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+D:\New folder (3)\Shop\Shop\obj\Debug\EmployeeManager.csproj.GenerateResource.cache
+D:\New folder (3)\Shop\Shop\obj\Debug\EmployeeManager.csproj.CoreCompileInputs.cache
+D:\New folder (3)\Shop\Shop\obj\Debug\EmployeeManager.csproj.CopyComplete
+D:\New folder (3)\Shop\Shop\obj\Debug\Shop.exe
+D:\New folder (3)\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\FlashControlV71.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\Bunifu.Core.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\bin\Debug\stdole.dll
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\obj\Debug\EmployeeManager.csprojAssemblyReference.cache
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\obj\Debug\Shop.frmAdmin.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\obj\Debug\Shop.frmDepartment.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\obj\Debug\Shop.frmExportReport.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\obj\Debug\Shop.frmLogin.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\obj\Debug\Shop.frmEmployee.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\obj\Debug\Shop.frmMain.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\obj\Debug\Shop.frmPosition.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\obj\Debug\Shop.frmSalary.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\obj\Debug\EmployeeManager.csproj.GenerateResource.cache
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\obj\Debug\EmployeeManager.csproj.CoreCompileInputs.cache
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\obj\Debug\EmployeeManager.csproj.CopyComplete
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop_2\Shop\Shop\obj\Debug\Shop.pdb
+D:\moi  nhat\Shop\Shop\bin\Debug\Shop.exe.config
+D:\moi  nhat\Shop\Shop\bin\Debug\Shop.exe
+D:\moi  nhat\Shop\Shop\bin\Debug\Shop.pdb
+D:\moi  nhat\Shop\Shop\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\CrystalDecisions.Shared.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\FlashControlV71.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\Bunifu.Core.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\ShockwaveFlashObjects.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\moi  nhat\Shop\Shop\bin\Debug\stdole.dll
+D:\moi  nhat\Shop\Shop\obj\Debug\EmployeeManager.csprojAssemblyReference.cache
+D:\moi  nhat\Shop\Shop\obj\Debug\Shop.frmAdmin.resources
+D:\moi  nhat\Shop\Shop\obj\Debug\Shop.frmDepartment.resources
+D:\moi  nhat\Shop\Shop\obj\Debug\Shop.frmExportReport.resources
+D:\moi  nhat\Shop\Shop\obj\Debug\Shop.frmLogin.resources
+D:\moi  nhat\Shop\Shop\obj\Debug\Shop.frmEmployee.resources
+D:\moi  nhat\Shop\Shop\obj\Debug\Shop.frmMain.resources
+D:\moi  nhat\Shop\Shop\obj\Debug\Shop.frmPosition.resources
+D:\moi  nhat\Shop\Shop\obj\Debug\Shop.frmSalary.resources
+D:\moi  nhat\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+D:\moi  nhat\Shop\Shop\obj\Debug\EmployeeManager.csproj.GenerateResource.cache
+D:\moi  nhat\Shop\Shop\obj\Debug\EmployeeManager.csproj.CoreCompileInputs.cache
+D:\moi  nhat\Shop\Shop\obj\Debug\EmployeeManager.csproj.CopyComplete
+D:\moi  nhat\Shop\Shop\obj\Debug\Shop.exe
+D:\moi  nhat\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\obj\Debug\EmployeeManager.csprojAssemblyReference.cache
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\obj\Debug\Shop.frmAdmin.resources
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\obj\Debug\Shop.frmDepartment.resources
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\obj\Debug\Shop.frmExportReport.resources
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\obj\Debug\Shop.frmLogin.resources
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\obj\Debug\Shop.frmEmployee.resources
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\obj\Debug\Shop.frmMain.resources
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\obj\Debug\Shop.frmPosition.resources
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\obj\Debug\Shop.frmSalary.resources
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\obj\Debug\EmployeeManager.csproj.GenerateResource.cache
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\obj\Debug\EmployeeManager.csproj.CoreCompileInputs.cache
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\FlashControlV71.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\Bunifu.Core.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\bin\Debug\stdole.dll
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\obj\Debug\EmployeeManager.csproj.CopyComplete
+C:\Users\mrtvh\Documents\Visual Studio 2017\Shop\Shop\obj\Debug\Shop.frmBasicSalary.resources
+C:\Users\hqtru\Documents\Visual Studio 2017\2.Windows Form\Shop\Shop\obj\Debug\Shop.frmBasicSalary.resources
